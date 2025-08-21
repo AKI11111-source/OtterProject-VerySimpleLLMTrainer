@@ -12,7 +12,7 @@ Quick Start：
 
 0：克隆项目
 
-0:clone the project
+0:Clone the project
 
 
 
@@ -37,5 +37,6 @@ Quick Start：
 4：为OtterProject添砖加瓦：在issue一栏中提出改进建议，让OtterProject更上一层楼！记得给颗星！
 
 4: Contribute to OtterProject: Suggest improvements in the issue section to take OtterProject to the next level!Remember to give a star！
+
 
 
