@@ -119,8 +119,7 @@ def train_sft():
             
             total_loss += loss.item()
             
-            if i % 100 == 0:
-                print(f'Epoch {epoch}, Batch {i}, Loss: {loss.item()}')
+            print(f'Epoch {epoch}, Batch {i}, Loss: {loss.item()}')
         
         print(f'Epoch {epoch}, Average Loss: {total_loss / len(dataloader)}')
     
